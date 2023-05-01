@@ -32,3 +32,4 @@ Once the contract is deployed, you can start using the mint and burn functions t
 
 **Author**
 ekodevs
+[@pableo_benedick](https://twitter.com/pableo_benedick)
