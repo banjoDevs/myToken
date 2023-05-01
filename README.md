@@ -31,5 +31,6 @@ Once the contract is deployed, you can start using the mint and burn functions t
 -It decreases the total supply by the value and the balance of the sender's address by the same value, provided that the sender has a balance greater than or equal to the value.
 
 **Author**
+
 ekodevs
 [@pableo_benedick](https://twitter.com/pableo_benedick)
